@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(0, 0, 0);
+    padding-top: 150px;
+}
+
+.container{
+    background-color: #b14a4a;
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imagem{
+    height: 200px;
+}
+
+.boxContainer{
+    max-width: 300px;
+    height: 250px;
+    margin: auto;
+    background-image:url(./image/churrasco.png);
+    background-size:300px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+input{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+h1{
+    margin-top: 0;
+    text-align: center;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
