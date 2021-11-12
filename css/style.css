@@ -5,9 +5,14 @@ body{
     padding-top: 150px;
 }
 
+#texto{
+    padding: 40px;
+    text-align: center;
+}
+
 .container{
     background-color: rgba(0, 0, 0, 0.5);
-    max-width: 500px;
+    max-width: 600px;
     margin: auto;
     padding: 20px;
     border-radius: 20px;
@@ -17,7 +22,7 @@ body{
 
 
 .boxContainer{
-    max-width: 500px;
+    max-width: 600px;
     height: 450px;
     margin: auto;
 }
